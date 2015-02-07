@@ -1,0 +1,7 @@
+Django==1.7.4
+django-phonenumber-field==0.6
+django-twilio==0.8.0
+httplib2==0.9
+phonenumbers==7.0.2
+six==1.9.0
+twilio==3.6.15
